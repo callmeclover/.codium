@@ -1,0 +1,46 @@
+disabled: []
+enabled:
+  - id: bierner.emojisense
+    uuid: 081cd2e9-bc51-4ea3-977e-544bed2e33a8
+  - id: bierner.markdown-mermaid
+    uuid: f8d0ffc4-66bb-4a9c-8149-ef8f043691a1
+  - id: bierner.markdown-preview-github-styles
+    uuid: 5cbdf58a-694a-4aba-af08-61d00842eb03
+  - id: DavidAnson.vscode-markdownlint
+    uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
+  - id: fill-labs.dependi
+    uuid: 456278dd-7f50-4cbe-8314-ab06540c1057
+  - id: GitHub.vscode-pull-request-github
+    uuid: 69ddd764-339a-4ecc-97c1-9c4ece58e36d
+  - id: hbenl.vscode-test-explorer
+    uuid: ff96f1b4-a4b8-45ef-8ecf-c232c0cb75c8
+  - id: JScearcy.rust-doc-viewer
+    uuid: eb6486a2-2c35-4e5b-956b-e320c44f732a
+  - id: LyonSyonII.rust-syntax
+    uuid: f024f98c-892f-4bcd-9a22-ec1ce23f88bf
+  - id: mhutchie.git-graph
+    uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
+  - id: ms-vscode.test-adapter-converter
+    uuid: 47210ec2-0324-4cbb-9523-9dff02a5f9ec
+  - id: PolyMeilex.rust-targets
+    uuid: 2d8e587e-f812-4f53-8aef-a03710f58939
+  - id: rust-lang.rust-analyzer
+    uuid: 06574cb4-e5dc-4631-8174-a543a4533621
+  - id: Swellaby.vscode-rust-test-adapter
+    uuid: c167848c-fc11-496e-b432-1fd0a578a408
+  - id: tamasfe.even-better-toml
+    uuid: b2215d5f-675e-4a2b-b6ac-1ca737518b78
+  - id: typefox.open-collaboration-tools
+    uuid: 29769612-cc2f-4b3a-b2e7-4542f46dbe93
+  - id: vadimcn.vscode-lldb
+    uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
+  - id: vira.vsc-vira-theme
+    uuid: dbcc26ae-4e05-4bd2-a0da-be8c280774ea
+  - id: zokugun.automatic-editor-sorter
+    uuid: 94b33df0-4b3f-4d33-a9c5-c756f72bd75c
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
+  - id: zokugun.explicit-folding
+    uuid: 6ccb8d60-0e25-4a00-8f74-e8b9ef6133ce
+  - id: zokugun.vsix-manager
+    uuid: 8f6c06c3-6eb7-46c8-898b-72d3057ebf45
