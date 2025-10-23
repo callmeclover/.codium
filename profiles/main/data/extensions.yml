@@ -1,17 +1,25 @@
 disabled: []
 enabled:
+  - id: adpyke.codesnap
+    uuid: 8c1fc960-44b1-45e8-89b5-85f982fdaf27
+  - id: alefragnani.Bookmarks
+    uuid: b689fcc8-d494-4dbf-a228-2c694a578afc
   - id: bierner.emojisense
     uuid: 081cd2e9-bc51-4ea3-977e-544bed2e33a8
   - id: bierner.markdown-mermaid
     uuid: f8d0ffc4-66bb-4a9c-8149-ef8f043691a1
   - id: bierner.markdown-preview-github-styles
     uuid: 5cbdf58a-694a-4aba-af08-61d00842eb03
+  - id: christian-kohler.path-intellisense
+    uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
   - id: DavidAnson.vscode-markdownlint
     uuid: daf8b44d-8aae-4da2-80c5-1f770219f643
   - id: fill-labs.dependi
     uuid: 456278dd-7f50-4cbe-8314-ab06540c1057
   - id: GitHub.vscode-pull-request-github
     uuid: 69ddd764-339a-4ecc-97c1-9c4ece58e36d
+  - id: Gruntfuggly.todo-tree
+    uuid: 261cac81-cd7b-4555-bb41-0c2d2bcd3e70
   - id: hbenl.vscode-test-explorer
     uuid: ff96f1b4-a4b8-45ef-8ecf-c232c0cb75c8
   - id: JScearcy.rust-doc-viewer
@@ -32,10 +40,16 @@ enabled:
     uuid: b2215d5f-675e-4a2b-b6ac-1ca737518b78
   - id: typefox.open-collaboration-tools
     uuid: 29769612-cc2f-4b3a-b2e7-4542f46dbe93
+  - id: ultram4rine.vscode-choosealicense
+    uuid: 3f3c77bc-5721-4a52-b693-e4049ae2256d
+  - id: usernamehw.errorlens
+    uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
   - id: vadimcn.vscode-lldb
     uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
   - id: vira.vsc-vira-theme
     uuid: dbcc26ae-4e05-4bd2-a0da-be8c280774ea
+  - id: vivaxy.vscode-conventional-commits
+    uuid: b6b26bce-33f4-4bce-bf92-89812388ed0a
   - id: zokugun.automatic-editor-sorter
     uuid: 94b33df0-4b3f-4d33-a9c5-c756f72bd75c
   - id: zokugun.cron-tasks
